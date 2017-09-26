@@ -14,12 +14,35 @@
 
 #location p{
   background-image: url("../images/flatironbuilding.jpg");
-
   height: auto;
   display:block;
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+#identify p{
+  font-size: 14px;
+}
+
+#understand p{
+  font-size: 14px;
+}
+
+#execute p{
+  font-size: 14px;
+}
+
+#portfolio p{
+  font-size: 14px;
+}
+
+#team p{
+  font-size: 14px;
+}
+
+#contact p{
+  font-size: 14px;
 }
 
 ul li{
@@ -56,6 +79,16 @@ font-size: 18px;
 color: white;
 }
 
-p{
-font-size: 14px;
+#copyright{
+  font-size: 11px;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+.footer p {
+  diplay: inline-block;
 }
